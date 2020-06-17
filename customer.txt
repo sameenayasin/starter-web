@@ -1,3 +1,8 @@
 Centrel Reposatory
 
 LOCAL  Reposatory
+
+Stagging .. 
+
+Local directory
+
