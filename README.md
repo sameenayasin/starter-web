@@ -1,5 +1,7 @@
 # STRTER WEB PROJECT
 
+ simple program
+
 ##INTRODUCTION
 
 ##Purpose
