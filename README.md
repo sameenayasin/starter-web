@@ -6,6 +6,10 @@
 
  LOCAL REPOSITORY 2
  
+ Staging area
+ 
+ Local directory 
+ 
 ##INTRODUCTION
 
 ##Purpose
